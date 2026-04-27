@@ -1,5 +1,4 @@
-<!--
-Сюда `lead` кладёт бриф под конкретный запуск `reviewer`-а.
-Структура брифа описана в AGENTS.md → раздел «Вход».
-В отсутствие брифа `reviewer` работает по сообщению от `lead`-а.
--->
+# INPUT.md
+
+Optional brief from `lead` for the current review run.
+Overwrite per task. Do not treat as durable context.
